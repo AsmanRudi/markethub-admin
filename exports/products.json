@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6ad1f3924eaaf9c45c75d956",
+    "pd_code": "PD-003",
+    "pd_ct_id": "ID_KATEGORI",
+    "pd_name": "Mouse Gaming Pro",
+    "pd_price": 225000,
+    "pd_id": "a00d055e-99e8-404a-af2f-3a7fc8d92a12",
+    "__v": 0
+  },
+  {
+    "_id": "6ad20d6f972014c4c91eb8b1",
+    "pd_code": "PD-001",
+    "__v": 0,
+    "pd_ct_id": "9caeab84-02c2-474c-a68d-057220ddd391",
+    "pd_id": "7d320470-1b25-4a8a-b2b6-012dbb8fcc5c",
+    "pd_name": "Controller Wireless",
+    "pd_price": 350000
+  },
+  {
+    "_id": "6ad20d6f972014c4c91eb8b2",
+    "pd_code": "PD-002",
+    "__v": 0,
+    "pd_ct_id": "6a448c68-2505-49f6-ac59-916a46c673f8",
+    "pd_id": "ec5fe334-cb0a-422e-a157-96e5d82421d8",
+    "pd_name": "Headset Gaming",
+    "pd_price": 275000
+  }
+]

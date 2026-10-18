@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6ad1ef66b7b68737ff3d230f",
+    "us_name": "Budi Santoso",
+    "us_email": "budi@example.com",
+    "us_phone_number": "081234567803",
+    "us_address": "Padang, Sumatera Barat",
+    "us_id": "a4f09a91-ef4b-4d37-8bb9-79bc0ee3e2fe",
+    "__v": 0
+  },
+  {
+    "_id": "6ad20cec972014c4c91eb8ac",
+    "us_email": "andi@example.com",
+    "__v": 0,
+    "us_address": "Padang, Sumatera Barat",
+    "us_id": "32550d67-3331-445b-b165-8868d4185a27",
+    "us_name": "Andi Pratama",
+    "us_phone_number": "081234567801"
+  },
+  {
+    "_id": "6ad20cec972014c4c91eb8ad",
+    "us_email": "siti@example.com",
+    "__v": 0,
+    "us_address": "Bungus, Padang",
+    "us_id": "d21d4fe9-c875-44aa-9bcb-db41059b6e5c",
+    "us_name": "Siti Rahma",
+    "us_phone_number": "081234567802"
+  }
+]

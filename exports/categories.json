@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6ad1f7dc3eb8295c8d93bb50",
+    "ct_code": "CT-004",
+    "ct_name": "Aksesori Komputer",
+    "ct_id": "ba160071-685e-47f2-bbc7-0e4482f5c5bb",
+    "ct_created_at": "2026-10-16T10:09:32.375Z",
+    "updatedAt": "2026-10-16T10:15:06.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad20d2f972014c4c91eb8ae",
+    "ct_code": "CT-001",
+    "__v": 0,
+    "ct_created_at": "2026-10-16T11:40:31.739Z",
+    "ct_id": "6a448c68-2505-49f6-ac59-916a46c673f8",
+    "ct_name": "Elektronik",
+    "updatedAt": "2026-10-16T11:42:26.036Z"
+  },
+  {
+    "_id": "6ad20d2f972014c4c91eb8af",
+    "ct_code": "CT-002",
+    "__v": 0,
+    "ct_created_at": "2026-10-16T11:40:31.741Z",
+    "ct_id": "9868e80b-6734-40c2-abe7-f9a5107980e0",
+    "ct_name": "Aksesori",
+    "updatedAt": "2026-10-16T11:42:26.037Z"
+  },
+  {
+    "_id": "6ad20d2f972014c4c91eb8b0",
+    "ct_code": "CT-003",
+    "__v": 0,
+    "ct_created_at": "2026-10-16T11:40:31.742Z",
+    "ct_id": "9caeab84-02c2-474c-a68d-057220ddd391",
+    "ct_name": "Gaming",
+    "updatedAt": "2026-10-16T11:42:26.038Z"
+  }
+]
